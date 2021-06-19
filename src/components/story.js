@@ -1,8 +1,12 @@
+import StoryContent from "./storyContent";
+import StoryPictures from "./storyPictures";
+
 export default function story() {
     return(
         <>
-       <div className="story__pictures">Story Pictures</div>
-       <div className="story__content">Story Content</div> 
+        <StoryPictures />
+        <StoryContent />
+        
        </>
     );
   }
