@@ -32,7 +32,7 @@ function HomeCard(props) {
         icon={"#icon-key"}
         text={"$120"}
       />
-      <button class="btn home__btn">Contact Relator</button>
+      <button className="btn home__btn">Contact Relator</button>
     </div>
   );
 }
