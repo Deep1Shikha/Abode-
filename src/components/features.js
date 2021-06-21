@@ -1,4 +1,3 @@
-import sprite from "../img/sprite.svg";
 import FeatureCard from "./FeatureCard";
 
 export default function features() {
