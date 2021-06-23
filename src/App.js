@@ -1,14 +1,14 @@
 
-import Base from "./components/base";
-import Features from "./components/features";
-import Footer from "./components/footer";
-import Gallery from "./components/gallery";
-import Header from "./components/header";
-import Homes from "./components/homes";
-import Realtors from "./components/realtors";
-import Sidebar from "./components/sidebar";
-import Typography from "./components/typography";
-import Story from "./components/story";
+import Base from "./components/Base";
+import Features from "./components/Features";
+import Footer from "./components/Footer";
+import Gallery from "./components/Gallery";
+import Header from "./components/Header";
+import Homes from "./components/Homes";
+import Realtors from "./components/Realtors";
+import Sidebar from "./components/Sidebar";
+import Typography from "./components/Typography";
+import Story from "./components/Story";
 
 export default function App(){
     return(

@@ -1,5 +1,5 @@
-import StoryContent from "./storyContent";
-import StoryPictures from "./storyPictures";
+import StoryContent from "./StoryContent";
+import StoryPictures from "./StoryPictures";
 
 export default function story() {
     return(
