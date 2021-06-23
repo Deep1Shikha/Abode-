@@ -1,8 +1,8 @@
 export default function realtors() {
   return (
     <div className="realtors">
-      <h3 class="heading-3">Top 3 Realtors</h3>
-      <div class="realtors__list">
+      <h3 className="heading-3">Top 3 Realtors</h3>
+      <div className="realtors__list">
         <img
           src="img/realtor-1.jpeg"
           alt="Realtor 1"
