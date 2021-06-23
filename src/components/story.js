@@ -1,7 +1,7 @@
 import StoryContent from "./StoryContent";
 import StoryPictures from "./StoryPictures";
 
-export default function story() {
+export default function Story() {
     return(
         <>
         <StoryPictures />

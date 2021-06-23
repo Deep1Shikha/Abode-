@@ -7,7 +7,7 @@ import house5 from "../img/house-5.jpeg";
 import house6 from "../img/house-6.jpeg";
 
 
-export default function homes() {
+export default function Homes() {
   return (
     <section className="homes">
       <HomeCard

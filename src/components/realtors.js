@@ -1,4 +1,4 @@
-export default function realtors() {
+export default function Realtors() {
   return (
     <div className="realtors">
       <h3 className="heading-3">Top 3 Realtors</h3>

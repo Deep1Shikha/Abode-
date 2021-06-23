@@ -3,7 +3,7 @@ import couple from "../img/story-1.jpeg"
 import coupleHouse from "../img/story-2.jpeg"
 
 
-export default function storyPictures() {
+export default function StoryPictures() {
     return(
         <>
        <div className="story__pictures">

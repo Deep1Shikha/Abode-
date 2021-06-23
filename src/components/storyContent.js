@@ -1,4 +1,4 @@
-export default function storyContent() {
+export default function StoryContent() {
   return (
     <>
       <div className="story__content">

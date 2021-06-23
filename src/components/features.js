@@ -1,6 +1,6 @@
 import FeatureCard from "./FeatureCard";
 
-export default function features() {
+export default function Features() {
   return (
     <section className="features">
     

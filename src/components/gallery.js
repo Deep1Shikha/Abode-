@@ -1,4 +1,4 @@
-export default function gallery() {
+export default function Gallery() {
     return(
     <section className="gallery">
       <figure className="gallery__item gallery__item--1">

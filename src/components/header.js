@@ -1,4 +1,4 @@
-export default function header() {
+export default function Header() {
   return (
     <header className="header">
       <img src="img/favicon.png" alt="Abode Logo" className="header__logo" />
