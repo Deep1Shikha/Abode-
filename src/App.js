@@ -5,7 +5,6 @@ import Header from "./components/Header";
 import Homes from "./components/Homes";
 import Realtors from "./components/Realtors";
 import Sidebar from "./components/Sidebar";
-
 import Story from "./components/Story";
 
 export default function App() {
